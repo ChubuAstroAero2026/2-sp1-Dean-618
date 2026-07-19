@@ -7,7 +7,7 @@ int main()
   scanf("%lf",&A);
   scanf("%d",&B);
 
-  printf("%.*d\n",B,A):
+  printf("%.*f\n",B,A):
 
   
   return 0;
